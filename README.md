@@ -379,3 +379,20 @@ func Compare(a, b []byte) int {
 ```
 
 ### Типізований switch
+Оператор `switch` також можна використовувати для визначення динамічного типу інтерфейсних змінних. Таким чином, типізований `switch` використовує синтаксис перевірки типу з ключовим словом `type` у дужках. Якщо `switch` оголошує змінну у виразі, змінна матиме відповідний тип у кожному його пункті. Також ідіоматично повторно використовувати імена змінних у таких випадках, фактично оголошуючи нову змінну з тим самим іменем, але з іншим типом у кожному випадку.
+```go
+var t interface{}
+t = functionOfSomeType()
+switch t := t.(type) {
+default:
+    fmt.Printf("unexpected type %T\n", t)     // %T виводить тип змінної t
+case bool:
+    fmt.Printf("boolean %t\n", t)             // t має тип bool
+case int:
+    fmt.Printf("integer %d\n", t)             // t має тип int
+case *bool:
+    fmt.Printf("pointer to boolean %t\n", *t) // t має тип *bool
+case *int:
+    fmt.Printf("pointer to integer %d\n", *t) // t має тип *int
+}
+```
