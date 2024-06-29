@@ -29,7 +29,7 @@
   - [Масиви](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/7.%20Дані.md#Масиви)
   - [Зрізи](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/7.%20Дані.md#Зрізи)
   - [Двовимірні зрізи](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/7.%20Дані.md#Двовимірні-зрізи)
-  - [Карти](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/7.%20Дані.md#Карти)
+  - [Мапи](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/7.%20Дані.md#Мапи)
   - [Друк](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/7.%20Дані.md#Друк)
   - [Приєднання](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/7.%20Дані.md#Приєднання)
 - [Ініціалізація](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/8.%20Ініціалізація.md#Ініціалізація)
