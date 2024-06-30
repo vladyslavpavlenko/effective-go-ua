@@ -41,7 +41,7 @@
 - [Інтерфейси та інші типи](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/10.%20Інтерфейси%20та%20інші%20типи.md#Інтерфейси-та-інші-типи)
   - [Інтерфейси](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/10.%20Інтерфейси%20та%20інші%20типи.md#Інтерфейси)
   - [Перетворення](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/10.%20Інтерфейси%20та%20інші%20типи.md#Перетворення)
-  - [Конвертація інтерфейсів та прив'язка типів](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/10.%20Інтерфейси%20та%20інші%20типи.md#Конвертація-інтерфейсів-і-прив'язка-типів)
+  - [Конвертація інтерфейсів та ствердження типів](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/10.%20Інтерфейси%20та%20інші%20типи.md#Конвертація-інтерфейсів-і-ствердження-типів)
   - [Загальність](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/10.%20Інтерфейси%20та%20інші%20типи.md#Загальність)
   - [Інтерфейси й методи](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/10.%20Інтерфейси%20та%20інші%20типи.md#Інтерфейси-й-методи)
 - [Порожній ідентифікатор](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/11.%20Порожній%20ідентифікатор.md#Порожній-ідентифікатор)
