@@ -14,7 +14,7 @@
 - [Крапки з комою](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/04.%20Крапки%20з%20комою.md#Крапки-з-комою)
 - [Керуючі структури](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/05.%20Керуючі%20структури.md#Керуючі-структури)
   - [If](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/05.%20Керуючі%20структури.md#If)
-  - [Перевизначення й переприсвоювання](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/05.%20Керуючі%20структури.md#Перевизначення-й-переприсвоювання)
+  - [Перевизначення й перепризначення](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/05.%20Керуючі%20структури.md#Перевизначення-й-перепризначення)
   - [For](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/05.%20Керуючі%20структури.md#For)
   - [Switch](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/05.%20Керуючі%20структури.md#Switch)
   - [Типізований switch](https://github.com/vladyslavpavlenko/effective-go-ua/blob/main/05.%20Керуючі%20структури.md#Типізований-switch)
